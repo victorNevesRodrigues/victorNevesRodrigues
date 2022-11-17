@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<h3 align="center">👋 Hi there, I am Victor<h3>
+<p align="center">I am a Full Stack Web Developer, specialized in JavaScript, I love to learn new things and turn ideas into reality.<p>
 
 <h2 align="center">My Stacks</h2>
 <h3 align="left">Front End:</h3>
